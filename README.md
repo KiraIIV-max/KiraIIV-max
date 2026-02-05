@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ahmed Mohamed
 
 💻 Software Developer | Frontend & Full-Stack Enthusiast  
-🚀 Passionate about building clean, scalable, and user-friendly webs 
+🚀 Passionate about building clean, scalable, and user-friendly websites 
 
 ## 👨‍💻 About Me
 - 🎓 Bachelor’s Degree in Computer Science (Helwan University)
@@ -28,6 +28,6 @@
 - Vite
 - Tailwind CSS
 - REST APIs
-- 
+  
 ## 📫 Connect With Me
 - GitHub: https://github.com/KiraIIV-max
