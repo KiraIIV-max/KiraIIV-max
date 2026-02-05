@@ -1,8 +1,7 @@
 # Hi 👋, I'm Ahmed Mohamed
 
 💻 Software Developer | Frontend & Full-Stack Enthusiast  
-🚀 Passionate about building clean, scalable, and user-friendly webs
-
+🚀 Passionate about building clean, scalable, and user-friendly webs 
 
 ## 👨‍💻 About Me
 - 🎓 Bachelor’s Degree in Computer Science (Helwan University)
@@ -10,10 +9,6 @@
 - 🧠 Strong problem-solving & analytical mindset
 - 🤝 Team player with solid communication skills
 - 🌱 Always learning and improving
-
----
-
-## 🛠️ Tech Stack
 
 ### 💡 Languages
 - c++
@@ -34,12 +29,8 @@
 - Tailwind CSS
 - REST APIs
 
----
-
 ## 📈 GitHub Stats
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiraIIV-max&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/KiraIIV-max
