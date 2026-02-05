@@ -28,9 +28,6 @@
 - Vite
 - Tailwind CSS
 - REST APIs
-
-## 📈 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiraIIV-max&show_icons=true&theme=tokyonight)
-
+- 
 ## 📫 Connect With Me
 - GitHub: https://github.com/KiraIIV-max
