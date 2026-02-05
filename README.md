@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Ahmed Mohamed
 
-<!--
-**KiraIIV-max/KiraIIV-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Frontend & Full-Stack Enthusiast  
+🚀 Passionate about building clean, scalable, and user-friendly webs
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Bachelor’s Degree in Computer Science (Helwan University)
+- 💼 Software Developer with **2+ years of experience**
+- 🧠 Strong problem-solving & analytical mindset
+- 🤝 Team player with solid communication skills
+- 🌱 Always learning and improving
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Languages
+- c++
+- html,css
+- JavaScript
+- php
+
+### ⚙️ Frameworks & Libraries
+- React
+- laravel
+
+### 🗄️ Databases
+- MySQL
+
+### 🔧 Tools & Others
+- Git & GitHub
+- Vite
+- Tailwind CSS
+- REST APIs
+
+---
+
+## 📈 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiraIIV-max&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/KiraIIV-max
