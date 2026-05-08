@@ -1,33 +1,38 @@
-# Hi 👋, I'm Ahmed Mohamed
+# 👋 Hi, I'm Ahmed Mohamed
 
-💻 Software Developer | Frontend & Full-Stack Enthusiast  
-🚀 Passionate about building clean, scalable, and user-friendly websites 
+💻 Software Developer | Frontend (React) | Backend (Node.js, Java)
 
-## 👨‍💻 About Me
-- 🎓 Bachelor’s Degree in Computer Science (Helwan University)
-- 💼 Software Developer with **2+ years of experience**
-- 🧠 Strong problem-solving & analytical mindset
-- 🤝 Team player with solid communication skills
-- 🌱 Always learning and improving
+---
 
-### 💡 Languages
-- c++
-- html,css
-- JavaScript
-- php
+## 🚀 About Me
+- 🔭 I’m currently working on Full Stack Web Applications  
+- 🌱 I’m learning System Design, Advanced Backend, and Scalable Systems  
+- 💡 I enjoy solving problems and building real-world projects  
+- 🎯 Goal: Become a strong Full Stack / Software Engineer  
+- 📍 Based in Egypt  
 
-### ⚙️ Frameworks & Libraries
-- React
-- laravel
+---
 
-### 🗄️ Databases
-- MySQL
+## 🛠 Tech Stack
+- Frontend: React.js, HTML, CSS, JavaScript  
+- Backend: Node.js, Express.js, Java  
+- Database: MongoDB, MySQL  
+- Tools: Git, GitHub, Postman  
 
-### 🔧 Tools & Others
-- Git & GitHub
-- Vite
-- Tailwind CSS
-- REST APIs
-  
-## 📫 Connect With Me
-- GitHub: https://github.com/KiraIIV-max
+---
+
+## 📂 Projects
+- E-commerce Web App (React + Node.js)
+- Authentication System (JWT)
+- Simple REST API with Node.js
+- Data Structures & Algorithms practice
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ahmed-mohamed-1012a6353  
+- Email: your-email@example.com  
+
+---
+
+⭐ Always learning, always building
