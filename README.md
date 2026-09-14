@@ -169,23 +169,8 @@ Scale        →   Think beyond the local machine
 
 ---
 
-## 06 — GITHUB ACTIVITY
 
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=KiraIIV-max&show_icons=true&hide_border=true&bg_color=00000000&title_color=18181B&text_color=52525B&icon_color=71717A"
-alt="Ahmed Mohamed GitHub Statistics"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiraIIV-max&layout=compact&hide_border=true&bg_color=00000000&title_color=18181B&text_color=52525B"
-alt="Ahmed Mohamed Top Languages"/>
-
-</div>
-
----
-
-## 07 — LET'S CONNECT
+## 06 — LET'S CONNECT
 
 <div align="center">
 
