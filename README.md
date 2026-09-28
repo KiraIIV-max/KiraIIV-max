@@ -1,157 +1,85 @@
-# 👋 Hi, I'm Ahmed Mohamed
+Ahmed Mohamed
+Junior Software Engineer
+Full-Stack · Backend · Infrastructure · Automation
 
-### Junior Software Engineer | Full-Stack Developer | Backend & DevOps Enthusiast
+I build practical software systems and enjoy understanding how things work — from the frontend and backend to servers, networking, and infrastructure.
 
-<p align="left">
-  <a href="https://github.com/KiraIIV-max">
-    <img src="https://img.shields.io/github/followers/KiraIIV-max?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/KiraIIV-max">
-    <img src="https://img.shields.io/github/stars/KiraIIV-max?label=Stars&style=for-the-badge" />
-  </a>
-</p>
+👨‍💻 About Me
+I'm a Junior Software Engineer focused on building real projects and strengthening my software engineering fundamentals.
 
----
+📍 Cairo, Egypt
+🎓 B.Sc. Software Engineering — Capital University
+💻 Full-Stack & Backend Development
+☁️ Cloud & DevOps
+🌐 Networking & Infrastructure
+🤖 AI Automation
+I learn by building, experimenting, debugging, and understanding the systems behind the code.
 
-## 🚀 About Me
+🚀 Featured Projects
+🎨 ArtScape
+A full-stack auction platform built around authentication, REST APIs, bidding workflows, and database integration.
 
-I'm a **Junior Software Engineer** who enjoys building practical applications and understanding how systems work from end to end.
+🛒 Full-Stack E-Commerce
+An e-commerce application focused on product management, authentication, backend APIs, and relational data management.
 
-* 🎓 B.Sc. Software Engineering — Capital University
-* 📍 Cairo, Egypt
-* 💻 Full-Stack & Backend Development
-* 🌐 Networking & Infrastructure
-* ☁️ Cloud & DevOps
-* 🤖 AI Automation
-* 🔧 Always learning by building real projects
+🖥️ Infrastructure Lab
+A hands-on engineering lab covering Linux servers, Nginx, reverse proxying, backend services, load balancing, and networking.
 
-> **Build → Understand → Experiment → Debug → Improve**
+⚙️ CPU Scheduling Simulator
+A Java application implementing CPU scheduling algorithms with waiting-time and turnaround-time calculations.
 
----
+🧠 Currently Learning
+☁️ Cloud & AWS
+🐳 Docker
+⚙️ DevOps & CI/CD
+🏗️ System Design
+🔐 Cloud Security
+🤖 AI Automation
+🔧 Technical Interests
+Software Development
 
-## 🛠️ Tech Stack
+Full-Stack Development
+Backend Development
+REST APIs
+Databases
+Authentication
+Infrastructure
 
-### 💻 Programming & Development
+Linux
+Nginx
+Networking
+Reverse Proxy
+Load Balancing
+Cloud & DevOps
+Automation
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,react" />
-</p>
+AI Automation
+n8n
+Workflow Automation
+🧩 How I Learn
+I believe software engineering is more than just writing code.
 
-### 🗄️ Databases
+My approach:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+Build → Understand → Experiment → Debug → Improve
 
-### ⚙️ DevOps & Infrastructure
+Every project is an opportunity to understand something deeper — whether it's application logic, APIs, databases, networking, or infrastructure.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,docker,aws,git,github,bash" />
-</p>
+🎯 What I'm Looking For
+I'm open to:
 
-### 🤖 Automation
+Junior Software Engineering opportunities
+Full-Stack / Backend roles
+Freelance projects
+Collaborations
+Real-world engineering challenges
+🌐 Connect With Me
+Portfolio https://ahmed-portfolio-rosy-tau.vercel.app/
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+LinkedIn https://www.linkedin.com/in/ahmed-mohamed-1012a6353
 
----
+GitHub https://github.com/KiraIIV-max
 
-## 📚 Currently Learning
+Email ahmedmoh01500@gmail.com
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
-</p>
-
-* ☁️ Cloud & AWS
-* 🐳 Docker
-* ⚙️ DevOps & CI/CD
-* 🏗️ System Design
-* 🔐 Cloud Security
-* 🤖 AI Automation
-
----
-
-## 🚀 Featured Projects
-
-| Project                         | Description                                                                                              |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 🎨 **ArtScape**                 | Full-stack auction platform with authentication, REST APIs, bidding workflows, and database integration. |
-| 🛒 **Full-Stack E-Commerce**    | E-commerce application with product management, authentication, APIs, and relational data.               |
-| 🖥️ **Infrastructure Lab**      | Linux, Nginx, reverse proxy, backend services, load balancing, and networking.                           |
-| ⚙️ **CPU Scheduling Simulator** | Java application implementing CPU scheduling algorithms and performance calculations.                    |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiraIIV-max&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiraIIV-max&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KiraIIV-max&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Engineering Mindset
-
-```text
-Build
-  ↓
-Understand
-  ↓
-Experiment
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Repeat
-```
-
-I believe the best way to become a better engineer is to build real things, break them, understand why they broke, and improve them.
-
----
-
-## 🎯 What I'm Looking For
-
-* 💼 Junior Software Engineering opportunities
-* 💻 Full-Stack / Backend roles
-* 🌐 Freelance projects
-* 🤝 Collaboration
-* 🚀 Real-world engineering challenges
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://ahmed-portfolio-rosy-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmedmoh01500@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-I enjoy understanding **what happens behind the code**, not just making the code work.
-
----
-
-<p align="center">
-  <b>🚀 Build. Understand. Improve.</b>
-</p>
+Build. Understand. Improve.
