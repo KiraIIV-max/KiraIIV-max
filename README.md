@@ -1,83 +1,124 @@
-# AHMED MOHAMED
+# Ahmed Mohamed
 
 ### Junior Software Engineer
 
 **Full-Stack · Backend · Infrastructure · Automation**
 
-I build practical software systems and enjoy understanding how they work from the frontend to the backend and infrastructure.
+I build practical software systems and enjoy understanding how things work — from the frontend and backend to servers, networking, and infrastructure.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Junior Software Engineer interested in building reliable and practical software.
+I'm a Junior Software Engineer focused on building real projects and strengthening my software engineering fundamentals.
 
 * 📍 Cairo, Egypt
 * 🎓 B.Sc. Software Engineering — Capital University
 * 💻 Full-Stack & Backend Development
 * ☁️ Cloud & DevOps
 * 🌐 Networking & Infrastructure
-* 🤖 AI Automation with n8n
+* 🤖 AI Automation
 
-I enjoy building projects, solving problems, and continuously improving my engineering fundamentals.
-
----
-
-## Featured Projects
-
-### ArtScape
-
-Full-stack auction platform with authentication, REST APIs, bidding workflows, and database integration.
-
-### Full-Stack E-Commerce
-
-E-commerce application with product management, authentication, APIs, and relational data management.
-
-### Infrastructure Lab
-
-Hands-on environment covering Linux, Nginx, backend services, reverse proxying, load balancing, and networking.
-
-### CPU Scheduling Simulator
-
-Java application implementing CPU scheduling algorithms with waiting-time and turnaround-time calculations.
+I learn by building, experimenting, debugging, and understanding the systems behind the code.
 
 ---
 
-## Currently Learning
+## 🚀 Featured Projects
 
-* Cloud & AWS
-* Docker
-* DevOps & CI/CD
-* System Design
-* Cloud Security
+### 🎨 ArtScape
+
+A full-stack auction platform built around authentication, REST APIs, bidding workflows, and database integration.
+
+### 🛒 Full-Stack E-Commerce
+
+An e-commerce application focused on product management, authentication, backend APIs, and relational data management.
+
+### 🖥️ Infrastructure Lab
+
+A hands-on engineering lab covering Linux servers, Nginx, reverse proxying, backend services, load balancing, and networking.
+
+### ⚙️ CPU Scheduling Simulator
+
+A Java application implementing CPU scheduling algorithms with waiting-time and turnaround-time calculations.
+
+---
+
+## 🧠 Currently Learning
+
+* ☁️ Cloud & AWS
+* 🐳 Docker
+* ⚙️ DevOps & CI/CD
+* 🏗️ System Design
+* 🔐 Cloud Security
+* 🤖 AI Automation
+
+---
+
+## 🔧 Technical Interests
+
+**Software Development**
+
+* Full-Stack Development
+* Backend Development
+* REST APIs
+* Databases
+* Authentication
+
+**Infrastructure**
+
+* Linux
+* Nginx
+* Networking
+* Reverse Proxy
+* Load Balancing
+* Cloud & DevOps
+
+**Automation**
+
 * AI Automation
+* n8n
+* Workflow Automation
 
 ---
 
-## Engineering Mindset
+## 🧩 How I Learn
 
-**Build → Understand → Experiment → Improve → Scale**
+I believe software engineering is more than just writing code.
 
-I believe the best way to learn software engineering is to build real projects, understand the fundamentals, and keep improving through practice.
+My approach:
+
+**Build → Understand → Experiment → Debug → Improve**
+
+Every project is an opportunity to understand something deeper — whether it's application logic, APIs, databases, networking, or infrastructure.
 
 ---
 
-## Let's Connect
+## 🎯 What I'm Looking For
 
-I'm open to opportunities, collaborations, freelance projects, and interesting engineering challenges.
+I'm open to:
 
-**LinkedIn:**
-https://www.linkedin.com/in/ahmed-mohamed-1012a6353
+* Junior Software Engineering opportunities
+* Full-Stack / Backend roles
+* Freelance projects
+* Collaborations
+* Real-world engineering challenges
 
-**Portfolio:**
+---
+
+## 🌐 Connect With Me
+
+**Portfolio**
 https://ahmed-portfolio-rosy-tau.vercel.app/
 
-**GitHub:**
+**LinkedIn**
+https://www.linkedin.com/in/ahmed-mohamed-1012a6353
+
+**GitHub**
 https://github.com/KiraIIV-max
 
-**Email:**
+**Email**
 [ahmedmoh01500@gmail.com](mailto:ahmedmoh01500@gmail.com)
 
 ---
 
-*Build systems. Understand the fundamentals. Keep improving.*
+### Build. Understand. Improve.
