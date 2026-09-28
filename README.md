@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:1e3a8a&height=180&section=header&text=Ahmed%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:1e3a8a&height=180&section=header&text=Ahmed%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
@@ -13,27 +13,23 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KiraIIV-max&label=PROFILE%20VIEWS&color=1e3a8a&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KiraIIV-max&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
 
-  <!-- PORTFOLIO -->
+  <!-- ⭐ HIGHLIGHTED PORTFOLIO -->
 
   <a href="https://ahmed-portfolio-rosy-tau.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20My%20Work-1e3a8a?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20MY%20PORTFOLIO-VISIT%20NOW-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
-  <!-- LINKEDIN -->
 
   <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-172554?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- GMAIL -->
-
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmoh01500@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-172554?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </p>
@@ -81,14 +77,12 @@ I learn by building real projects, debugging problems, experimenting with new id
   <img src="https://skillicons.dev/icons?i=docker,aws" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20%26%20Cloud-172554?style=flat-square&logo=amazonaws&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Docker-172554?style=flat-square&logo=docker&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/DevOps%20%26%20CI%2FCD-172554?style=flat-square&logo=githubactions&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/System%20Design-172554?style=flat-square&logo=diagramsdotnet&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Cloud%20Security-172554?style=flat-square&logo=letsencrypt&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/AI%20Automation-172554?style=flat-square&logo=openai&logoColor=38BDF8" />
-</p>
+* ☁️ AWS & Cloud Infrastructure
+* 🐳 Docker
+* ⚙️ DevOps & CI/CD
+* 🏗️ System Design
+* 🔐 Cloud Security
+* 🤖 AI Automation
 
 ---
 
@@ -162,13 +156,13 @@ Java application implementing CPU scheduling algorithms with:
 
 <p align="center">
   <b>BUILD</b>
-  <span> → </span>
+   → 
   <b>UNDERSTAND</b>
-  <span> → </span>
+   → 
   <b>EXPERIMENT</b>
-  <span> → </span>
+   → 
   <b>DEBUG</b>
-  <span> → </span>
+   → 
   <b>IMPROVE</b>
 </p>
 
@@ -181,10 +175,13 @@ It's about understanding **why** it works, knowing **why** it breaks, and contin
 ## 🎯 What I'm Looking For
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Junior%20Software%20Engineering-172554?style=for-the-badge&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Full--Stack%20%2F%20Backend-172554?style=for-the-badge&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Freelance%20Projects-172554?style=for-the-badge&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Collaboration-172554?style=for-the-badge&logoColor=38BDF8" />
+  💼 Junior Software Engineering
+    •  
+  💻 Full-Stack / Backend
+    •  
+  🌐 Freelance Projects
+    •  
+  🤝 Collaboration
 </p>
 
 ---
