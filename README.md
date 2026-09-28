@@ -146,53 +146,6 @@ Java application implementing CPU scheduling algorithms with:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KiraIIV-max&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiraIIV-max&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=KiraIIV-max&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=KiraIIV-max&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KiraIIV-max&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
 
 ## 🧠 Engineering Mindset
 
