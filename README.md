@@ -1,32 +1,14 @@
 <!-- ===================== HEADER ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:1e3a8a&height=180&section=header&text=Ahmed%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:1e3a8a&height=180&section=header&text=Ahmed%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> </p>
 
-<h3 align="center">
-  Junior Software Engineer • Full-Stack • Backend • DevOps
-</h3>
+<h3 align="center">   Junior Software Engineer • Full-Stack • Backend • DevOps </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Junior+Software+Engineer;Full-Stack+Developer;Backend+Developer;DevOps+Enthusiast;Building+%7C+Learning+%7C+Improving" alt="Typing SVG" />
-</p>
+<p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Junior+Software+Engineer;Full-Stack+Developer;Backend+Developer;DevOps+Enthusiast;Building+%7C+Learning+%7C+Improving" alt="Typing SVG" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KiraIIV-max&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="center">   <img src="https://komarev.com/ghpvc/?username=KiraIIV-max&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="center">
-  <a href="https://ahmed-portfolio-rosy-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmedmoh01500@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p align="center">   <a href="https://ahmed-portfolio-rosy-tau.vercel.app/" target="_blank">     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />   </a>   <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353" target="_blank">     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />   </a>   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmoh01500@gmail.com" target="_blank">     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />   </a> </p>
 
 ---
 
@@ -49,27 +31,19 @@ I learn by building real projects, debugging problems, experimenting with new id
 
 ### 💻 Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,react" />
-</p>
+<p align="center">   <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,react" /> </p>
 
 ### 🗄️ Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+<p align="center">   <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> </p>
 
 ### ⚙️ Tools & Infrastructure
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,bash" />
-</p>
+<p align="center">   <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,bash" /> </p>
 
 ### 📚 Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
-</p>
+<p align="center">   <img src="https://skillicons.dev/icons?i=docker,aws" /> </p>
 
 * ☁️ AWS & Cloud Infrastructure
 * 🐳 Docker
@@ -82,9 +56,7 @@ I learn by building real projects, debugging problems, experimenting with new id
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<table> <tr> <td width="50%">
 
 ### 🎨 ArtScape
 
@@ -110,11 +82,9 @@ E-commerce application featuring:
 * 🗄️ Relational database
 * 🔄 CRUD workflows
 
-</td>
-</tr>
+</td> </tr>
 
-<tr>
-<td width="50%">
+<tr> <td width="50%">
 
 ### 🖥️ Infrastructure Lab
 
@@ -140,26 +110,13 @@ Java application implementing CPU scheduling algorithms with:
 * 📊 Scheduling calculations
 * ☕ Java
 
-</td>
-</tr>
-</table>
+</td> </tr> </table>
 
 ---
 
-
 ## 🧠 Engineering Mindset
 
-<p align="center">
-  <b>BUILD</b>
-  &nbsp;→&nbsp;
-  <b>UNDERSTAND</b>
-  &nbsp;→&nbsp;
-  <b>EXPERIMENT</b>
-  &nbsp;→&nbsp;
-  <b>DEBUG</b>
-  &nbsp;→&nbsp;
-  <b>IMPROVE</b>
-</p>
+<p align="center">   <b>BUILD</b>    →    <b>UNDERSTAND</b>    →    <b>EXPERIMENT</b>    →    <b>DEBUG</b>    →    <b>IMPROVE</b> </p>
 
 I believe good software engineering is not just about making code work.
 
@@ -169,15 +126,7 @@ It's about understanding **why** it works, knowing **why** it breaks, and contin
 
 ## 🎯 What I'm Looking For
 
-<p align="center">
-  💼 Junior Software Engineering
-  &nbsp; • &nbsp;
-  💻 Full-Stack / Backend
-  &nbsp; • &nbsp;
-  🌐 Freelance Projects
-  &nbsp; • &nbsp;
-  🤝 Collaboration
-</p>
+<p align="center">   💼 Junior Software Engineering     •     💻 Full-Stack / Backend     •     🌐 Freelance Projects     •     🤝 Collaboration </p>
 
 ---
 
@@ -185,30 +134,18 @@ It's about understanding **why** it works, knowing **why** it breaks, and contin
 
 <p align="center">
 
-<a href="https://ahmed-portfolio-rosy-tau.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<a href="https://ahmed-portfolio-rosy-tau.vercel.app/" target="_blank">   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
 
-<a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353" target="_blank">   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-<a href="https://github.com/KiraIIV-max">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/KiraIIV-max" target="_blank">   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-<a href="mailto:ahmedmoh01500@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmoh01500@gmail.com" target="_blank">   <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1e3a8a&height=120&section=footer" />
-</p>
+<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1e3a8a&height=120&section=footer" /> </p>
 
-<p align="center">
-  <b>Build. Understand. Improve. 🚀</b>
-</p>
+<p align="center">   <b>Build. Understand. Improve. 🚀</b> </p>
