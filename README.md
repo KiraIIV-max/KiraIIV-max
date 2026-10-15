@@ -267,11 +267,3 @@ It's about understanding **why** it works, knowing **why** it breaks, and contin
   <strong>BUILD. UNDERSTAND. IMPROVE. 🚀</strong>
 </p>
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:1e3a8a&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <b>Build. Understand. Improve. 🚀</b>
-</p>
