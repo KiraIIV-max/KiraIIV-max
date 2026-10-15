@@ -32,53 +32,68 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- ABOUT ME -->
 
-I'm a **Junior Software Engineer** focused on building practical applications and understanding how software works from end to end.
+<h1>
+  <img src="https://img.shields.io/badge/01-ABOUT%20ME-172554?style=for-the-badge&labelColor=0284C7" alt="01 About Me" />
+</h1>
 
-* 🎓 B.Sc. Software Engineering — Capital University
-* 📍 Cairo, Egypt
-* 💻 Full-Stack & Backend Development
-* 🌐 Networking & Infrastructure
-* ⚙️ DevOps & Linux
-* 🤖 AI Automation
+Hey! I'm **Ahmed Mohamed**, a Software Engineering student at Capital University with an interest in software development, backend systems, and IT infrastructure.
 
-I learn by building real projects, debugging problems, experimenting with new ideas, and understanding the fundamentals behind the systems I build.
+I'm interested in understanding how applications are built, how services communicate, and how the systems behind them operate.
+
+- 🎓 Software Engineering student — Capital University
+- 📍 Cairo, Egypt
+- 💻 Full-Stack Development
+- ⚙️ Backend Development and REST APIs
+- 🐧 Linux and System Administration
+- 🌐 Networking and Infrastructure
+- 🚀 Exploring DevOps, Automation, and Cloud Technologies
+
+I learn by building projects, solving problems, experimenting with technologies, and understanding the fundamentals behind the code.
 
 ---
 
-## 🛠️ Tech Stack
+<!-- TECH STACK -->
 
-### 💻 Development
+<h1>
+  <img src="https://img.shields.io/badge/02-TECH%20STACK-172554?style=for-the-badge&labelColor=0284C7" alt="02 Tech Stack" />
+</h1>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,react" />
+<h2>💻 Programming & Web Development</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,react&theme=dark" alt="Programming and web development technologies" />
 </p>
 
-### 🗄️ Databases
+<h2>🗄️ Databases</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Database technologies" />
 </p>
 
-### ⚙️ Tools & Infrastructure
+<h2>🖥️ Linux & Infrastructure</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,bash" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,aws&theme=dark" alt="Linux and infrastructure technologies" />
 </p>
 
-### 📚 Currently Learning
+<h2>🛠️ Development Tools</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools" />
 </p>
 
-* ☁️ AWS & Cloud Infrastructure
-* 🐳 Docker
-* ⚙️ DevOps & CI/CD
-* 🏗️ System Design
-* 🔐 Cloud Security
-* 🤖 AI Automation
+<h2>📚 Areas I'm Exploring</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Linux%20Administration-020817?style=for-the-badge&logo=linux&logoColor=38BDF8" alt="Linux Administration" />
+  <img src="https://img.shields.io/badge/Networking-020817?style=for-the-badge&logo=cisco&logoColor=38BDF8" alt="Networking" />
+  <img src="https://img.shields.io/badge/Docker-020817?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-020817?style=for-the-badge&logo=githubactions&logoColor=38BDF8" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/System%20Design-020817?style=for-the-badge&logo=diagramsdotnet&logoColor=38BDF8" alt="System Design" />
+  <img src="https://img.shields.io/badge/Automation-020817?style=for-the-badge&logo=n8n&logoColor=38BDF8" alt="Automation" />
+</p>
 
 ---
 
