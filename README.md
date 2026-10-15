@@ -96,6 +96,128 @@ I learn by building projects, solving problems, experimenting with technologies,
 </p>
 
 ---
+<!-- AREAS OF INTEREST -->
+
+<h1>
+  <img src="https://img.shields.io/badge/03-AREAS%20OF%20INTEREST-172554?style=for-the-badge&labelColor=0284C7" alt="03 Areas of Interest" />
+</h1>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>💻 Software Development</h2>
+      <p>Building web applications, writing clean code, and strengthening programming fundamentals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-172554?style=flat-square&logo=javascript" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Java-172554?style=flat-square&logo=openjdk" alt="Java" />
+        <img src="https://img.shields.io/badge/React-172554?style=flat-square&logo=react" alt="React" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2>⚙️ Backend Engineering</h2>
+      <p>Understanding APIs, server-side logic, authentication, databases, and application architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-172554?style=flat-square&logo=nodedotjs" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-172554?style=flat-square&logo=express" alt="Express" />
+        <img src="https://img.shields.io/badge/SQL-172554?style=flat-square&logo=mysql" alt="SQL" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🐧 Linux & System Administration</h2>
+      <p>Learning how operating systems work, using the command line, managing services, and automating tasks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-172554?style=flat-square&logo=linux" alt="Linux" />
+        <img src="https://img.shields.io/badge/Bash-172554?style=flat-square&logo=gnubash" alt="Bash" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🌐 Networking & DevOps</h2>
+      <p>Exploring network fundamentals, web servers, deployment workflows, containers, and infrastructure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Networking-172554?style=flat-square" alt="Networking" />
+        <img src="https://img.shields.io/badge/Nginx-172554?style=flat-square&logo=nginx" alt="Nginx" />
+        <img src="https://img.shields.io/badge/Docker-172554?style=flat-square&logo=docker" alt="Docker" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- PROJECTS -->
+
+<h1>
+  <img src="https://img.shields.io/badge/04-PROJECTS-172554?style=for-the-badge&labelColor=0284C7" alt="04 Projects" />
+</h1>
+
+I use projects to practice what I learn, explore new technologies, and improve my problem-solving skills.
+
+<p align="center">
+  <a href="https://github.com/KiraIIV-max?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore my repositories to see my code, experiments, and development projects.</i>
+</p>
+
+---
+
+<!-- ENGINEERING MINDSET -->
+
+<h1>
+  <img src="https://img.shields.io/badge/05-ENGINEERING%20MINDSET-172554?style=for-the-badge&labelColor=0284C7" alt="05 Engineering Mindset" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILD-020817?style=for-the-badge&logoColor=38BDF8" alt="Build" />
+  <img src="https://img.shields.io/badge/UNDERSTAND-172554?style=for-the-badge" alt="Understand" />
+  <img src="https://img.shields.io/badge/EXPERIMENT-172554?style=for-the-badge" alt="Experiment" />
+  <img src="https://img.shields.io/badge/DEBUG-172554?style=for-the-badge" alt="Debug" />
+  <img src="https://img.shields.io/badge/IMPROVE-0284C7?style=for-the-badge" alt="Improve" />
+</p>
+
+I believe software engineering is about more than writing code that works.
+
+It's about understanding **why** it works, identifying **why** it breaks, and improving the way applications and systems are designed.
+
+My goal is to build a strong technical foundation and become a developer who understands both the application and the environment in which it runs.
+
+---
+
+<!-- CURRENT GOALS -->
+
+<h1>
+  <img src="https://img.shields.io/badge/06-CURRENT%20GOALS-172554?style=for-the-badge&labelColor=0284C7" alt="06 Current Goals" />
+</h1>
+
+<table>
+  <tr>
+    <td>💻</td>
+    <td><b>Strengthen Software Engineering</b><br/>Practice programming, algorithms, data structures, and clean code.</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Improve Backend Development</b><br/>Build a stronger understanding of APIs, databases, and server-side applications.</td>
+  </tr>
+  <tr>
+    <td>🐧</td>
+    <td><b>Learn Linux & Networking</b><br/>Develop practical skills in the command line, operating systems, and networking fundamentals.</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td><b>Explore DevOps & Cloud</b><br/>Learn about containers, automation, CI/CD, deployment, and cloud infrastructure.</td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td><b>Build & Collaborate</b><br/>Create practical projects, improve existing code, and learn through collaboration.</td>
+  </tr>
+</table>
+
+---
 
 ## 🚀 Featured Projects
 
