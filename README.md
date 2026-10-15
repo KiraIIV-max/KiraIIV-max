@@ -3,7 +3,7 @@
 <!-- HERO HEADER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:0284C7&height=220&section=header&text=Ahmed%20Mohamed&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20DEVELOPMENT%20%7C%20INFRASTRUCTURE&descSize=13&descAlignY=58&descColor=7DD3FC&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:0284C7&height=270&section=header&text=Ahmed%20Mohamed&fontSize=62&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20DEVELOPMENT%20%7C%20INFRASTRUCTURE&descSize=16&descAlignY=58&descColor=7DD3FC&animation=fadeIn"
     width="100%"
     alt="Ahmed Mohamed - Software Engineering"
   />
@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Development+Enthusiast;Linux+%7C+Networking+%7C+Infrastructure;Learning+by+Building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+Development+Enthusiast;Linux+%7C+Networking+%7C+Infrastructure;Build.+Understand.+Improve."
     alt="Typing introduction"
   />
 </p>
@@ -41,9 +41,9 @@
 
 <!-- ABOUT ME -->
 
-<h2>
-  <img src="https://img.shields.io/badge/01-ABOUT%20ME-172554?style=flat-square&labelColor=0284C7" alt="01 About Me" />
-</h2>
+<h1>
+  <img src="https://img.shields.io/badge/01-ABOUT%20ME-172554?style=for-the-badge&labelColor=0284C7" alt="01 About Me" />
+</h1>
 
 Hey! I'm **Ahmed Mohamed**, a Software Engineering student at Capital University with an interest in software development, backend systems, and IT infrastructure.
 
@@ -57,41 +57,41 @@ I'm interested in understanding how applications are built, how services communi
 - 🌐 Networking and Infrastructure
 - 🚀 Exploring DevOps, Automation, and Cloud Technologies
 
-I believe the best way to improve is to build projects, solve problems, experiment with technologies, and understand the fundamentals behind the code.
+I learn by building projects, solving problems, experimenting with technologies, and understanding the fundamentals behind the code.
 
 ---
 
 <!-- TECH STACK -->
 
-<h2>
-  <img src="https://img.shields.io/badge/02-TECH%20STACK-172554?style=flat-square&labelColor=0284C7" alt="02 Tech Stack" />
-</h2>
+<h1>
+  <img src="https://img.shields.io/badge/02-TECH%20STACK-172554?style=for-the-badge&labelColor=0284C7" alt="02 Tech Stack" />
+</h1>
 
-<h3>💻 Programming & Web Development</h3>
+<h2>💻 Programming & Web Development</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,react&theme=dark" alt="Programming and web development technologies" />
 </p>
 
-<h3>🗄️ Databases</h3>
+<h2>🗄️ Databases</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Database technologies" />
 </p>
 
-<h3>🖥️ Linux & Infrastructure</h3>
+<h2>🖥️ Linux & Infrastructure</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,aws&theme=dark" alt="Linux and infrastructure technologies" />
 </p>
 
-<h3>🛠️ Development Tools</h3>
+<h2>🛠️ Development Tools</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools" />
 </p>
 
-<h3>📚 Areas I'm Exploring</h3>
+<h2>📚 Areas I'm Exploring</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Linux%20Administration-020817?style=for-the-badge&logo=linux&logoColor=38BDF8" alt="Linux Administration" />
@@ -104,16 +104,16 @@ I believe the best way to improve is to build projects, solve problems, experime
 
 ---
 
-<!-- WHAT I LIKE TO BUILD -->
+<!-- AREAS OF INTEREST -->
 
-<h2>
-  <img src="https://img.shields.io/badge/03-AREAS%20OF%20INTEREST-172554?style=flat-square&labelColor=0284C7" alt="03 Areas of Interest" />
-</h2>
+<h1>
+  <img src="https://img.shields.io/badge/03-AREAS%20OF%20INTEREST-172554?style=for-the-badge&labelColor=0284C7" alt="03 Areas of Interest" />
+</h1>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Software Development</h3>
+      <h2>💻 Software Development</h2>
       <p>Building web applications, writing clean code, and strengthening programming fundamentals.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-172554?style=flat-square&logo=javascript" alt="JavaScript" />
@@ -122,7 +122,7 @@ I believe the best way to improve is to build projects, solve problems, experime
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Backend Engineering</h3>
+      <h2>⚙️ Backend Engineering</h2>
       <p>Understanding APIs, server-side logic, authentication, databases, and application architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-172554?style=flat-square&logo=nodedotjs" alt="Node.js" />
@@ -133,7 +133,7 @@ I believe the best way to improve is to build projects, solve problems, experime
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐧 Linux & System Administration</h3>
+      <h2>🐧 Linux & System Administration</h2>
       <p>Learning how operating systems work, using the command line, managing services, and automating tasks.</p>
       <p>
         <img src="https://img.shields.io/badge/Linux-172554?style=flat-square&logo=linux" alt="Linux" />
@@ -141,7 +141,7 @@ I believe the best way to improve is to build projects, solve problems, experime
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Networking & DevOps</h3>
+      <h2>🌐 Networking & DevOps</h2>
       <p>Exploring network fundamentals, web servers, deployment workflows, containers, and infrastructure.</p>
       <p>
         <img src="https://img.shields.io/badge/Networking-172554?style=flat-square" alt="Networking" />
@@ -156,9 +156,9 @@ I believe the best way to improve is to build projects, solve problems, experime
 
 <!-- PROJECTS -->
 
-<h2>
-  <img src="https://img.shields.io/badge/04-PROJECTS-172554?style=flat-square&labelColor=0284C7" alt="04 Projects" />
-</h2>
+<h1>
+  <img src="https://img.shields.io/badge/04-PROJECTS-172554?style=for-the-badge&labelColor=0284C7" alt="04 Projects" />
+</h1>
 
 I use projects to practice what I learn, explore new technologies, and improve my problem-solving skills.
 
@@ -169,16 +169,16 @@ I use projects to practice what I learn, explore new technologies, and improve m
 </p>
 
 <p align="center">
-  <i>Visit my repositories to explore my code, experiments, and development projects.</i>
+  <i>Explore my repositories to see my code, experiments, and development projects.</i>
 </p>
 
 ---
 
 <!-- ENGINEERING MINDSET -->
 
-<h2>
-  <img src="https://img.shields.io/badge/05-ENGINEERING%20MINDSET-172554?style=flat-square&labelColor=0284C7" alt="05 Engineering Mindset" />
-</h2>
+<h1>
+  <img src="https://img.shields.io/badge/05-ENGINEERING%20MINDSET-172554?style=for-the-badge&labelColor=0284C7" alt="05 Engineering Mindset" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILD-020817?style=for-the-badge&logoColor=38BDF8" alt="Build" />
@@ -198,9 +198,9 @@ My goal is to build a strong technical foundation and become a developer who und
 
 <!-- CURRENT GOALS -->
 
-<h2>
-  <img src="https://img.shields.io/badge/06-CURRENT%20GOALS-172554?style=flat-square&labelColor=0284C7" alt="06 Current Goals" />
-</h2>
+<h1>
+  <img src="https://img.shields.io/badge/06-CURRENT%20GOALS-172554?style=for-the-badge&labelColor=0284C7" alt="06 Current Goals" />
+</h1>
 
 <table>
   <tr>
@@ -229,23 +229,23 @@ My goal is to build a strong technical foundation and become a developer who und
 
 <!-- CONNECT -->
 
-<h2 align="center">🌐 LET'S CONNECT</h2>
+<h1 align="center">🌐 LET'S CONNECT</h1>
 
 <p align="center">
   <a href="https://ahmed-portfolio-rosy-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20MY%20WORK-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/KiraIIV-max">
-    <img src="https://img.shields.io/badge/GitHub-Follow-172554?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-FOLLOW-172554?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmoh01500@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -254,11 +254,15 @@ My goal is to build a strong technical foundation and become a developer who und
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:0284C7&height=130&section=footer" width="100%" alt="" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:0284C7&height=150&section=footer"
+    width="100%"
+    alt=""
+  />
 </p>
 
 <p align="center">
-  <b>BUILD. UNDERSTAND. IMPROVE. 🚀</b>
+  <strong>BUILD. UNDERSTAND. IMPROVE. 🚀</strong>
 </p>
 
 <!-- ==================== END OF PROFILE README ==================== -->
