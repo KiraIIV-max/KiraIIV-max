@@ -1,221 +1,230 @@
-===================== HEADER ===================== -->
+<!-- ==================== AHMED MOHAMED | GITHUB PROFILE ==================== -->
 
+<!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:1e3a8a&height=180&section=header&text=Ahmed%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<h3 align="center">
-  Junior Software Engineer • Full-Stack • Backend • DevOps
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Junior+Software+Engineer;Full-Stack+Developer;Backend+Developer;DevOps+Enthusiast;Building+%7C+Learning+%7C+Improving" alt="Typing SVG" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B1F3A,80:123B5D,100:39FF14&height=210&section=header&text=Ahmed%20Mohamed&fontSize=48&fontColor=39FF14&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20BACKEND&descSize=14&descAlignY=58&descColor=A7F3D0&animation=fadeIn"
+    width="100%"
+    alt="Ahmed Mohamed - Software Engineering"
+  />
 </p>
 
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer+in+Progress;Exploring+Backend+%26+APIs;Linux+%7C+Networking+%7C+Infrastructure;Build.+Understand.+Improve."
+    alt="Introduction"
+  />
+</p>
 
-  <!-- ⭐ HIGHLIGHTED PORTFOLIO -->
-
-  <a href="https://ahmed-portfolio-rosy-tau.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20MY%20PORTFOLIO-VISIT%20NOW-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center">
+  <a href="https://ahmed-portfolio-rosy-tau.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20MY%20WORK-39FF14?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0B1F3A" alt="Portfolio" />
   </a>
-
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/KiraIIV-max">
+    <img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORIES-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0B1F3A" alt="GitHub" />
   </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmoh01500@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353">
+    <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-39FF14?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0B1F3A" alt="LinkedIn" />
   </a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/LOCATION-Cairo%2C%20Egypt-A7F3D0?style=flat-square&labelColor=0B1F3A" alt="Location" />
+  <img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-A7F3D0?style=flat-square&labelColor=0B1F3A" alt="Focus" />
+  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-A7F3D0?style=flat-square&labelColor=0B1F3A" alt="Mindset" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ABOUT ME -->
 
-I'm a **Junior Software Engineer** focused on building practical applications and understanding how software works from end to end.
+<h2>
+  <img src="https://img.shields.io/badge/01-ABOUT%20ME-39FF14?style=flat-square&labelColor=0B1F3A" alt="About Me" />
+</h2>
 
-* 🎓 B.Sc. Software Engineering — Capital University
-* 📍 Cairo, Egypt
-* 💻 Full-Stack & Backend Development
-* 🌐 Networking & Infrastructure
-* ⚙️ DevOps & Linux
-* 🤖 AI Automation
+Hey! I'm **Ahmed Mohamed**, a Software Engineering student at Capital University interested in building applications and understanding the systems behind them.
 
-I learn by building real projects, debugging problems, experimenting with new ideas, and understanding the fundamentals behind the systems I build.
+I'm exploring software development from both the application and infrastructure perspectives, with a focus on writing useful code, understanding how things work, and improving through hands-on practice.
 
----
+- 🎓 Software Engineering student — Capital University
+- 💻 Full-Stack Development
+- ⚙️ Backend Development and REST APIs
+- 🐧 Linux and System Administration
+- 🌐 Networking and Infrastructure
+- 🚀 Exploring DevOps, Automation, and Cloud Technologies
+- 🧠 Problem Solving and Continuous Learning
 
-## 🛠️ Tech Stack
-
-### 💻 Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,react" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### ⚙️ Tools & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,bash" />
-</p>
-
-### 📚 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
-</p>
-
-* ☁️ AWS & Cloud Infrastructure
-* 🐳 Docker
-* ⚙️ DevOps & CI/CD
-* 🏗️ System Design
-* 🔐 Cloud Security
-* 🤖 AI Automation
+My goal is to build a strong engineering foundation and develop practical skills through projects, experimentation, and continuous learning.
 
 ---
 
-## 🚀 Featured Projects
+<!-- TECH STACK -->
+
+<h2>
+  <img src="https://img.shields.io/badge/02-TECH%20STACK-39FF14?style=flat-square&labelColor=0B1F3A" alt="Tech Stack" />
+</h2>
+
+<h3>💻 Programming & Web Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,react&theme=dark" alt="Web development technologies" />
+</p>
+
+<h3>🗄️ Databases</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Database technologies" />
+</p>
+
+<h3>🐧 Systems & Infrastructure</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,aws&theme=dark" alt="Systems and infrastructure technologies" />
+</p>
+
+<h3>🛠️ Developer Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools" />
+</p>
+
+<h3>📚 Areas I'm Exploring</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/LINUX-39FF14?style=for-the-badge&logo=linux&logoColor=39FF14&labelColor=0B1F3A" alt="Linux" />
+  <img src="https://img.shields.io/badge/NETWORKING-39FF14?style=for-the-badge&logo=cisco&logoColor=39FF14&labelColor=0B1F3A" alt="Networking" />
+  <img src="https://img.shields.io/badge/DOCKER-39FF14?style=for-the-badge&logo=docker&logoColor=39FF14&labelColor=0B1F3A" alt="Docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-39FF14?style=for-the-badge&logo=githubactions&logoColor=39FF14&labelColor=0B1F3A" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/CLOUD-39FF14?style=for-the-badge&logo=icloud&logoColor=39FF14&labelColor=0B1F3A" alt="Cloud" />
+  <img src="https://img.shields.io/badge/SYSTEM%20DESIGN-39FF14?style=for-the-badge&logo=diagramsdotnet&logoColor=39FF14&labelColor=0B1F3A" alt="System Design" />
+</p>
+
+---
+
+<!-- WHAT I BUILD -->
+
+<h2>
+  <img src="https://img.shields.io/badge/03-AREAS%20OF%20INTEREST-39FF14?style=flat-square&labelColor=0B1F3A" alt="Areas of Interest" />
+</h2>
 
 <table>
-<tr>
-<td width="50%">
-
-### 🎨 ArtScape
-
-Full-stack auction platform featuring:
-
-* 🔐 Authentication
-* 🌐 REST APIs
-* 💰 Bidding workflows
-* 🗄️ Database integration
-* 💻 Full-stack architecture
-
-</td>
-
-<td width="50%">
-
-### 🛒 Full-Stack E-Commerce
-
-E-commerce application featuring:
-
-* 📦 Product management
-* 🔐 Authentication
-* 🌐 Backend APIs
-* 🗄️ Relational database
-* 🔄 CRUD workflows
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🖥️ Infrastructure Lab
-
-Hands-on infrastructure project covering:
-
-* 🐧 Linux
-* 🌐 Networking
-* 🔀 Reverse Proxy
-* 🚀 Node.js services
-* ⚖️ Load Balancing
-* 🌍 Nginx
-
-</td>
-
-<td width="50%">
-
-### ⚙️ CPU Scheduling Simulator
-
-Java application implementing CPU scheduling algorithms with:
-
-* ⏱️ Waiting Time
-* 🔄 Turnaround Time
-* 📊 Scheduling calculations
-* ☕ Java
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Web Development</h3>
+      Building responsive interfaces and exploring how frontend applications connect to backend services.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend Engineering</h3>
+      Learning about APIs, authentication, application logic, databases, and server-side development.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐧 Linux & Networking</h3>
+      Understanding operating systems, command-line tools, networking fundamentals, and server configuration.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 DevOps & Infrastructure</h3>
+      Exploring deployment workflows, containers, automation, reverse proxies, and cloud infrastructure.
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🧠 Engineering Mindset
+<!-- PROJECTS -->
+
+<h2>
+  <img src="https://img.shields.io/badge/04-PROJECTS-39FF14?style=flat-square&labelColor=0B1F3A" alt="Projects" />
+</h2>
+
+I use projects to strengthen my programming fundamentals, explore new technologies, and turn concepts into practical applications.
 
 <p align="center">
-  <b>BUILD</b>
-   → 
-  <b>UNDERSTAND</b>
-   → 
-  <b>EXPERIMENT</b>
-   → 
-  <b>DEBUG</b>
-   → 
-  <b>IMPROVE</b>
+  <a href="https://github.com/KiraIIV-max?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0B1F3A" alt="Explore repositories" />
+  </a>
 </p>
 
-I believe good software engineering is not just about making code work.
-
-It's about understanding **why** it works, knowing **why** it breaks, and continuously improving the way you build systems.
-
----
-
-## 🎯 What I'm Looking For
-
 <p align="center">
-  💼 Junior Software Engineering
-    •  
-  💻 Full-Stack / Backend
-    •  
-  🌐 Freelance Projects
-    •  
-  🤝 Collaboration
+  <i>From web applications to backend logic and infrastructure experiments.</i>
 </p>
 
 ---
 
-## 🌐 Let's Connect
+<!-- ENGINEERING MINDSET -->
+
+<h2>
+  <img src="https://img.shields.io/badge/05-ENGINEERING%20MINDSET-39FF14?style=flat-square&labelColor=0B1F3A" alt="Engineering Mindset" />
+</h2>
 
 <p align="center">
-
-  <!-- MAIN PORTFOLIO -->
-
-  <a href="https://ahmed-portfolio-rosy-tau.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-1e3a8a?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
-  </a>
-
+  <img src="https://img.shields.io/badge/BUILD-39FF14?style=for-the-badge&labelColor=0B1F3A" alt="Build" />
+  <img src="https://img.shields.io/badge/UNDERSTAND-A7F3D0?style=for-the-badge&labelColor=0B1F3A" alt="Understand" />
+  <img src="https://img.shields.io/badge/EXPERIMENT-39FF14?style=for-the-badge&labelColor=0B1F3A" alt="Experiment" />
+  <img src="https://img.shields.io/badge/DEBUG-A7F3D0?style=for-the-badge&labelColor=0B1F3A" alt="Debug" />
+  <img src="https://img.shields.io/badge/IMPROVE-39FF14?style=for-the-badge&labelColor=0B1F3A" alt="Improve" />
 </p>
 
-<p align="center">
+I believe engineering is about more than making code work.
 
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-172554?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
-  </a>
-
-  <a href="https://github.com/KiraIIV-max" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-172554?style=for-the-badge&logo=github&logoColor=38BDF8" />
-  </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmoh01500@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-172554?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
-  </a>
-
-</p>
+It's about understanding **why it works**, discovering **why it breaks**, and learning how to make systems more reliable, maintainable, and efficient.
 
 ---
 
+<!-- CURRENT GOALS -->
+
+<h2>
+  <img src="https://img.shields.io/badge/06-CURRENT%20GOALS-39FF14?style=flat-square&labelColor=0B1F3A" alt="Current Goals" />
+</h2>
+
+- [ ] Strengthen programming and problem-solving fundamentals.
+- [ ] Build practical full-stack applications.
+- [ ] Improve backend development and database skills.
+- [ ] Develop stronger Linux and networking fundamentals.
+- [ ] Explore Docker, CI/CD, and deployment workflows.
+- [ ] Understand system design and software architecture.
+- [ ] Collaborate with other developers and learn from real projects.
+
+---
+
+<!-- CONNECT -->
+
+<h2 align="center">LET'S CONNECT</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:1e3a8a&height=120&section=footer" />
+  <a href="https://ahmed-portfolio-rosy-tau.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20MY%20WEBSITE-39FF14?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0B1F3A" alt="Portfolio website" />
+  </a>
 </p>
 
 <p align="center">
-  <b>Build. Understand. Improve. 🚀</b>
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-39FF14?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0B1F3A" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/KiraIIV-max">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0B1F3A" alt="GitHub" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmoh01500@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-39FF14?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0B1F3A" alt="Email" />
+  </a>
 </p>
+
+<p align="center">
+  <i>"The best way to learn engineering is to build, understand, and improve."</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B1F3A,80:123B5D,100:39FF14&height=120&section=footer"
+    width="100%"
+    alt=""
+  />
+</p>
+
+<p align="center">
+  <b>BUILD. UNDERSTAND. IMPROVE.</b>
+</p>
+
+<!-- ==================== END OF PROFILE README ==================== -->
+```
