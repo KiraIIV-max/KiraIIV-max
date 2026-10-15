@@ -97,27 +97,6 @@ I learn by building projects, solving problems, experimenting with technologies,
 
 ---
 
-<!-- ENGINEERING MINDSET -->
-
-<h1>
-  <img src="https://img.shields.io/badge/05-ENGINEERING%20MINDSET-172554?style=for-the-badge&labelColor=0284C7" alt="05 Engineering Mindset" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILD-020817?style=for-the-badge&logoColor=38BDF8" alt="Build" />
-  <img src="https://img.shields.io/badge/UNDERSTAND-172554?style=for-the-badge" alt="Understand" />
-  <img src="https://img.shields.io/badge/EXPERIMENT-172554?style=for-the-badge" alt="Experiment" />
-  <img src="https://img.shields.io/badge/DEBUG-172554?style=for-the-badge" alt="Debug" />
-  <img src="https://img.shields.io/badge/IMPROVE-0284C7?style=for-the-badge" alt="Improve" />
-</p>
-
-I believe software engineering is about more than writing code that works.
-
-It's about understanding **why** it works, identifying **why** it breaks, and improving the way applications and systems are designed.
-
-My goal is to build a strong technical foundation and become a developer who understands both the application and the environment in which it runs.
-
----
 
 <!-- CURRENT GOALS -->
 
@@ -250,34 +229,43 @@ It's about understanding **why** it works, knowing **why** it breaks, and contin
 
 ---
 
-## 🌐 Let's Connect
+<!-- CONNECT -->
+
+<h1 align="center">🌐 LET'S CONNECT</h1>
 
 <p align="center">
-
-  <!-- MAIN PORTFOLIO -->
-
-  <a href="https://ahmed-portfolio-rosy-tau.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20PORTFOLIO-1e3a8a?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
+  <a href="https://ahmed-portfolio-rosy-tau.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20MY%20WORK-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
   </a>
-
 </p>
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-172554?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-1012a6353">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/KiraIIV-max" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-172554?style=for-the-badge&logo=github&logoColor=38BDF8" />
+  <a href="https://github.com/KiraIIV-max">
+    <img src="https://img.shields.io/badge/GitHub-FOLLOW-172554?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
   </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmoh01500@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-172554?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmoh01500@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
 </p>
 
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:0284C7&height=150&section=footer"
+    width="100%"
+    alt=""
+  />
+</p>
+
+<p align="center">
+  <strong>BUILD. UNDERSTAND. IMPROVE. 🚀</strong>
+</p>
 ---
 
 <p align="center">
